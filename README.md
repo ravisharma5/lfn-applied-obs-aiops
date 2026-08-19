@@ -16,7 +16,7 @@ People from AT&T, Verizon, Turkcell, AWS, Red Hat, and LFN.
 | Murat Parlakisik | AWS | AI/ML Architecture Lead |
 | Ranny Haiby | LFN | CTO / Governance Sponsor |
 | TBD | Turkcell | Operator Rep |
-| TBD | Verizon | Operator Rep |
+| Sunny Singh | Verizon | Operator Rep |
 
 ## Four-step AIOps method
 
